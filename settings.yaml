@@ -1,0 +1,23 @@
+get_url: https://untitled.stream/library/project/6DTgsCaMbUNrCK8Zg0Uzl
+
+blacklist:
+  prefixes:
+    - new_
+    - final_
+    - test_
+    - copy_
+    - old_
+    - temp_
+    - v1
+    - v2
+    - untitled
+  suffixes:
+    - _new
+    - _final
+    - _copy
+    - _old
+    - _temp
+    - v1
+    - v2
+    - demo
+    - master
